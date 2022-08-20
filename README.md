@@ -16,9 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Leonid Chashnikov </h1>
-<h3 align="center">Software Engineer, interested in Functional Programming, Big Data processing, and ML. </h3>
-
-- 📫 How to reach me **rayanral@gmail.com**
+<h3 align="center">Software Engineer, interested in Functional Programming and Big Data processing. </h3>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/leonidchashnikov/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/leonidchashnikov/" height="20" width="20" /></a>
