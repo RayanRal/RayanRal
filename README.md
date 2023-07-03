@@ -1,6 +1,5 @@
 <h3 align="left">Hey, I'm Leo Chashnikov </h3>
-<h4 align="left">Software Engineer, interested in Functional Programming and Big Data processing. </h4>
-<h4 align="left">Experienced in Scala, Python and Java, and working with Apache Spark.</h4>
+<h4 align="left">Software Engineer, interested in Functional Programming and Big Data processing. Experienced in Scala, Python and Java, and working with Apache Spark.</h4>
 
 <p align="left">
 <h4> Currently working at <a href="https://facebook.com">Meta</a> (ex-Facebook) </h4>
@@ -16,3 +15,11 @@
     <a href="https://www.facebook.com/RayanRal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/RayanRal" height="20" width="20" /></a>
    <a href="https://twitter.com/RayanRal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="https://twitter.com/RayanRal" height="20" width="20" /></a>
 </p>
+
+<p align="left">
+<h4> Small pet-projects, that I consider interesting: </h4>
+<ul>
+    <li> <a href="https://github.com/RayanRal/spark-snippets">spark-snippets</a> - collection of small functions and utility classes, that I found regularly useful when working with Apache Spark
+    <li> <a href="https://github.com/RayanRal/sparkling">sparkling</a> - example / test application I use as a demo in some articles on testing Spark apps, and Spark Streaming.
+    <li> <a href="https://github.com/RayanRal/indexVerse">indexVerse</a> - multi-threaded creation of inverted index in Scala
+</ul>
